@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi 
+=======
+Hi 
+>>>>>>> 7b14b82b6ac55468cdb20f0b3f1dcddc1d3644d2
